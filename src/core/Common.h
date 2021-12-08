@@ -1,0 +1,12 @@
+#pragma once
+
+
+#define LE__GRAPHICS__MAX_BONES_PER_VERTEX 4
+#define LE__GRAPHICS__MAX_BATCH_SIZE__STATIC_MESH 10000
+
+#define LE__GRAPHICS__MESH_BACK_FACE 1
+#define LE__GRAPHICS__MESH_FRONT_FACE 2
+
+#define LE__RESOURCES__NAME_EXTENSION__SKELETON_PROTOTYPES "_skeleton_prototype"
+
+#define byte unsigned char
